@@ -1,7 +1,7 @@
 {
   "short_name": "Portfolio app",
   "private": "true",
-  "homepage": "https://hamzzzz.github.io/rs4",
+  "homepage": "https://hamzzzz.github.io/deploy-react",
   "dependencies": {
 		"gh-pages": "^2.0.1",
 		"react": "^16.8.3",
