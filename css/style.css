@@ -1442,6 +1442,14 @@ body.offcanvas {
     float: none;
     width: 100%; } }
 
+.about-box {
+  display: flex;
+}
+
+.checker-box {
+  display: flex;
+}
+
 .row-bottom-padded-lg {
   padding-bottom: 7em; }
   @media screen and (max-width: 768px) {
